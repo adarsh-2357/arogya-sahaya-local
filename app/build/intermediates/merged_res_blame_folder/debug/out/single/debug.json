@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\adars\\.gradle\\daemon\\8.7\\com.arogyasahaya.local.app-merged_res-67:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\adars\\.gradle\\daemon\\8.7\\com.arogyasahaya.local.app-main-69:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\adars\\.gradle\\daemon\\8.7\\com.arogyasahaya.local.app-merged_res-67:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\adars\\.gradle\\daemon\\8.7\\com.arogyasahaya.local.app-main-69:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "com.arogyasahaya.local.app-merged_res-67:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.arogyasahaya.local.app-main-69:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.arogyasahaya.local.app-merged_res-67:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.arogyasahaya.local.app-main-69:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.arogyasahaya.local.app-merged_res-67:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.arogyasahaya.local.app-main-69:/mipmap-anydpi-v26/ic_launcher.xml"
+    }
+]
